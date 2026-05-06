@@ -1,0 +1,11 @@
+{
+  "name": "pet-supplies-website",
+  "version": "1.0.0",
+  "description": "宠物优品馆官网 - 静态网站",
+  "scripts": {
+    "build": "echo 'Build completed for static site'"
+  },
+  "keywords": ["pet", "supplies", "website"],
+  "author": "",
+  "license": "MIT"
+}
